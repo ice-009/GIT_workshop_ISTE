@@ -16,14 +16,14 @@ Do not jump Directly over Solution use the following hints and try to do it Your
     Note: You can clone anywhere you want but prefer Desktop for first time.
 
 ![alt text for screen readers](/images/clone.png "Clone")
-
+ 
 
 
 1. Make A seperate Branch (Branch Name: Roll No.).
 
     `git branch <New_branch>` ---> Creating a new Branch
 
-    `git checkout <New_branch>` ---> Switching over new Branch (Eg. main->20bcs102)
+    `git checkout <New_branch>` ---> Switching over new Branch (Eg. main->21BMA003)
 
     or
 
@@ -32,7 +32,7 @@ Do not jump Directly over Solution use the following hints and try to do it Your
 
 2. Add a file in <strong>TEST</strong> Folder with File Name: <strong>Firstname_rollno.fileextension</strong>. 
 
-    (Eg: Deepak_20bcs102.pdf, Deepak_20bcs102.txt, Deepak_20bcs102.py, Deepak_20bcs102.cpp etc)
+    (Eg: Mehul_21BMA003.pdf, Mehul_21BMA003.txt, Mehul_21BMA003.py, Mehul_21BMA003.cpp etc)
 
 3. You can add anything Inside the file (Eg: Code Script, Your Name, Class, Roll etc).
 
@@ -57,7 +57,7 @@ Do not jump Directly over Solution use the following hints and try to do it Your
 
 ![alt text for screen readers](/images/PR.png "Compare and Pull request")
 
-Now ! write something
+Now write something
 
 ![alt text for screen readers](/images/write.png "Write Final Commit Msg")
 
